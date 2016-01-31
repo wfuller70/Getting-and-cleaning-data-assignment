@@ -20,7 +20,7 @@ Steps used to work on project
 
 Downloaded the data source https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip in local working directory on local drive. After unzipping it creates a UCI HAR Dataset folder.
 Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd() function in RStudio.
-Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
+Run source("run_analysis.R"), then it will generate a new file tidy_data.txt in your working directory.
 
 Dependencies
 
