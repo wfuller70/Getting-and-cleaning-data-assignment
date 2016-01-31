@@ -4,6 +4,7 @@ Repository for the Getting and Cleaning data assignment
 title: "README.MD"
 author: "W Fuller"
 date: "January 31, 2016"
+
 ---
 Getting and Cleaning Data
 Course Project
